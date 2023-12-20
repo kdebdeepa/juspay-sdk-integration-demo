@@ -8,7 +8,7 @@ curl --location --request POST 'https://api.juspay.in/session' \
     "customer_id":"yourUniqueCustId",
     "customer_phone":"9876543210",
     "customer_email":"dummyemail@gmail.com",
-    "payment_page_client_id":"picasso",
+    "payment_page_client_id":"client_id",
     "return_url": "https://shop.merchant.com",
     "action":"enach",
     "service":"in.juspay.ec",
