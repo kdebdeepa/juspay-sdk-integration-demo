@@ -12,6 +12,6 @@
       "isEmi": false,
       "orderId": "order12345",
       "saveToLocker": false,
-      "shouldCreateMandate": false
+      "shouldCreateMandate": true
     }
 }
