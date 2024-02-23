@@ -11,4 +11,4 @@ curl --location --request POST 'https://api.juspay.in/session' \
 "payment_page_client_id":"<YOUR_CLIENT_ID>",
 "action":"paymentPage"
 }'
-test1234
+TESET
