@@ -14,5 +14,6 @@ curl --location --request POST 'https://api.juspay.in/session' \
     "description": "Complete your payment",
     "first_name": "John",
     "last_name": "wick"
-    "test"
+    "test",
+       "test"
 }'
